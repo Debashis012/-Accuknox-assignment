@@ -1,4 +1,4 @@
-# Search Bar React + Vite App {live working link//Try it Here  : https://curious-parfait-6576ba.netlify.app/}
+# Search Bar React + Vite App live working link || Try it Here  : https://curious-parfait-6576ba.netlify.app/
 
 This is a React application built with Vite, featuring a search bar that queries an API for matching words or names as the user types.
 
